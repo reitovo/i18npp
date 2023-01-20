@@ -1,0 +1,7 @@
+{
+  "name": "i18npp",
+  "license": "GPL-2.0-only",
+  "dependencies": [
+    "simdjson"
+  ]
+}
